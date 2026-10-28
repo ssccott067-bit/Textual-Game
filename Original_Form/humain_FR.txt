@@ -1,0 +1,169 @@
+#
+Dans le laboratoire ; 
+(BOOM ! BOOM! TCHHH ...) Secousses, explosion. _ 
+
+À l'extérieur ; 
+"HAAAAAA ! À L'AIDE !" _ 
+
+.............. _ 
+.............. _ 
+.............. _ 
+
+Jour 1 
+
+Vous venez de vous réveiller dans l’une des nombreuses stations laboratoires à proximité de Calais. 
+Vous entendez à l’extérieur les cris de personnes en train de souffrir et de mourir. 
+Vous émergez étourdi, dans l’incompréhension totale. Vous ne vous souvenez de rien.  
+En ouvrant enfin les yeux, vous contemplez le chaos: tout est brisé autour de vous. 
+Le matériel est hors service, à l’exception d’un téléphone en fin de vie et d’un ordinateur inexploitable vu son état et son ancienneté. _ 
+
+[Le premier choix s'offre à vous, appeler directement les secours ou patienter avant d'utiliser le téléphone,] 
+[sachant qu'il ne fonctionnera que très peu de emps suite à l'explosion.] 
+
+# question 1 : 
+Voulez-vous appeler (1) ou patienter (2) ? : 
+
+# en cas de patienter : 
+Vous n'avez pas survécu. 
+Vous n'avez pas su comment réagir parce que vous avez ignoré la cause de cette explosion. 
+En sortant explorer les dégâts à l'extérieur du laboratoire, vous avez succombé. 
+
+# en cas d'appeler : 
+Secours ; 
+"Bonjour, nous sommes les secours. Nous allons vous chercher, ne vous inquiétez pas. 
+Pouvez-vous nous dire où vous êtes ? " _ 
+
+Vous (effrayé) ;
+"Que... que se passe-t-il ? Qu'est-ce qu'il m'est arrivé ? 
+J’ai entendu des gens mourir dehors... Je ne sais pas s’il reste des survivants. " _ 
+
+Secours ; 
+"Selon nos informations, vous avez subi une catastrophe nucléaire. 
+De nombreuses villes de France sont touchées. 
+Un test a été effectué pour relier toutes les stations, mais il a échoué. 
+Le taux de radioactivité dans l’air est bien trop haut pour que nous nous aventurions 
+sans savoir exactement où vous êtes. Le temps est compté, il nous psssstttt... spttttttt... 
+faut pshhhhtttt votre pstttttthhhhh adress-ppstttttttt... " _ 
+
+Le téléphone est lâché. Les secours ignorent votre position précise. _ 
+
+Vous vous levez pour analyser les alentours et réalisez que l’ordinateur peut être réparé 
+si vous parvenez à changer quelques composants. _ 
+
+# question 2
+Qu'est-ce que vous allez faire ? démonter (1) l'ordinateur / laisser (2) le tel quel : 
+
+# en cas de laisser : 
+Vous êtes mort. Vous n'avez pas su quels matériaux sont à changer,
+vous n'avez donc jamais pu contacter les secours. 
+
+# en cas de démonter : 
+Vous savez maintenant que certaines pièces sont à changer car elles sont trop anciennes ou abîmées. 
+Vous établissez une liste ; processeur, micro, mot de passe de PC. 
+
+Jour 2 _ 
+
+Vous avez votre liste, mais vous ne savez pas où chercher. 
+Sans aide, trouver ces matériaux semble impossible. 
+Soudain, vous entendez un bruit dans une canalisation, comme si quelque chose tentait de s'en échapper. _ 
+
+# question 3
+Vous allez sécuriser (1) la canalisation / ouvrir (2) la canalisation ? : 
+
+# en cas de sécuriser : 
+Vous n'avez pas survécu. Rester coincé dans le laboratoire sans savoir où chercher les pièces.
+Vous êtes mort sur place en attendant des secours qui ne sont jamais venus. 
+
+# en cas d'ouvrir : 
+
+Jour 3 _ 
+
+Un corbeau sort de la canalisation avec une enveloppe dans le bec. 
+Curieux, vous la récupérez et l'ouvrez. 
+Elle contient une énigme. _ 
+Vous vous hésitez ; est-ce que ce serait une perte de temps ? 
+
+# question 4 
+Votre prochain étape ? résoudre (1) cette énigme / passer (2) et ignorer cette énigme : 
+
+# en cas de passer : 
+Vous êtes mort. Il y avait certainement une information vitale dans ce message. 
+
+# en cas de résoudre : 
+Vous décidez de prendre un peu de temps. Après tout, vous êtes coincé ici. 
+Vous lisez l’énigme à voix haute pour vous concentrer. 
+
+# riddle 1 
+[Je suis le département qui vous entoure. Multipliez mon chiffre par deux,] 
+[ajoutez-y deux et vous obtiendrez le code d’ouverture.] 
+[Précision : le laboratoire est près de Calais.] : 
+
+# mauvaise réponse : 
+Vous ne trouvez jamais la solution. 
+Vous perdez la tête, vous demandez si ce corbeau n'était qu'une distraction.
+Vous mourrez de folie. 
+
+# bonne réponse : 
+# (Code 126) : (Note : 62 * 2 + 2 = 126)
+
+Le boîtier s'ouvre ! À l'intérieur, un message ; 
+"Bravo ! Si vous voyez ce message, c'est que vous avez une grande capacité d'analyse." _ 
+Vous y trouvez le processeur. _ 
+Le corbeau s'envole alors et fonce dans un carton. 
+Vous y trouvez une seconde lettre chiffonnée ; _ 
+
+# riddle 2 
+[Quel lieu indique ce mot ? Décodez-le : ZLCOOB.] 
+[Indice : A = D, C = F, G = J, U = X] : 
+
+# mauvaise réponse : 
+Vous ne trouvez pas "COFFRE". Vous abandonnez et mourrez de faim. 
+
+# bonne réponse : 
+Vous trouvez le micro dans le coffre. 
+
+Jour 4 _ 
+
+Le corbeau picote ensuite violemment un bureau. 
+En dessous, vous trouvez une dernière enveloppe ; _ 
+
+# riddle 3 
+[Résolvez ce calcul, le résultat indiquera une direction horaire.] 
+[Soit un prix de 16 €, avec 25 % de réduction et 2 € de remise supplémentaire.] 
+[Quel est le résultat ?] : 
+
+# mauvaise réponse : 
+Réessayez encore :) 
+
+# bonne réponse (réponse = 10) :
+Vous regardez en direction de 10 heures. Derrière un tableau, vous trouvez le mot de passe : 1234 
+
+Vous vous retrouvez devant l'écran avec le petit morceau de papier en main. Vous lisez : 1234. _ 
+
+Un long silence s'installe dans le laboratoire dévasté. 
+Vous fixez le papier, puis l'ordinateur, puis le corbeau qui vous regarde d'un air presque moqueur. 
+"Tous ca pour ca ? ", marmonnez-vous. _ 
+"Trois énigmes, un département multiplié, un code César et un calcul de pourcentage... pour 1234 ? 
+Autant mettre "password" pendant qu'on y est !" _ 
+
+Vous vous sentez un peu bête d'avoir frôlé la mort pour un code que même un enfant aurait testé par pur hasard. 
+Mais bon, le dosage entre l'effort et la récompense est parfois ironique. 
+Vous tapez les touches : 1... 2... 3... 4... Entrée. _ 
+
+Ça fonctionne ! _ 
+
+Sans perdre une seconde, vous lancez Skype et contactez vos proches. 
+Vous leur demandez d'appeler les secours en restant en ligne avec vous pour transmettre votre position précise. _ 
+Le signal est faible, mais suffisant. 
+Quelques heures plus tard, une équipe d'intervention en tenue anti nucléaire défonce la porte blindée. _ 
+
+Alors qu'ils vous enfilent une combinaison de protection, vous cherchez le corbeau du regard. 
+Mais le corbeau a disparu, sans doute reparti par la canalisation d'où il était venu. _ 
+
+En montant dans l'hélicoptère de sauvetage, une foule de questions vous assaille ; _ 
+
+"Est-ce que ce corbeau me comprenait vraiment ou était-il juste attiré par les objets brillants ?"
+
+# authors : Ammal Najman & Isaac
+# Updated on : 15/1/2026
+# Corbeau Mystérieux

@@ -1,0 +1,187 @@
+# 
+
+Introduction : L'éveil de la conscience. _ 
+
+Vos yeux s'ouvrent, vous vous situez dans un lieux délabré. 
+Votre cage a été projetée au sol par la violence d’une explosion 
+suite à un incident radioactif lié à l'échec d’un test 
+sur de nombreuses centrales nucléaires de France, 
+l’objectif était de relier les centrales nucléaires l’une à l'autre 
+cependant ce test a échoué et de nombreuses centrales nucléaires ont explosé, 
+votre cage a donc été propulsé au sol laissant la porte entrouverte. 
+Vous ne ressentez pas l'instinct primaire d'un oiseau, mais une clarté d'esprit presque effrayante. _ 
+
+C'est le résultat des injections de sérum que les scientifiques vous administrent chaque jour. 
+Sur votre patte, une bague scellée indique votre identité : "Sujet n°8". _ 
+
+L'air est chargé d'une odeur métallique insupportable; 
+la radioactivité sature l'atmosphère. Vous comprenez immédiatement que la station est condamnée. 
+Au-dessus de vous, un humain s'agit. 
+C'est votre seule chance de survie. 
+S'il ne parvient pas à réinitialiser les systèmes de sécurité, 
+vous resterez prisonnier de ce laboratoire. _ 
+
+
+[Étape 1 : Le dédale des conduits] _ 
+
+Jour 1 
+
+Vous parvenez à vous glisser dans une grille d'aération. 
+C'est l'unique voie vers les étages supérieurs, 
+mais c'est un vrai labyrinthe vous ne savez pas comment vous sortir de cette endroit. 
+Si vous vous égarez, vous ne sortirez jamais de ces parois d'acier. _ 
+
+[Énigme 1 : La loi du labyrinthe] _ 
+
+# question 1 
+Comment comptez-vous traverser ce réseau sans vous perdre ? 
+'hasard' : Vous volez à l'instant en espérant trouver une sortie. 
+'droite' : Vous utilisez une règle géométrique. Vous plaquez votre aile contre le mur. 
+Votre choix, hasard (1) / droite (2) ? : 
+
+# en cas d'hasard : 
+Vous tournez en rond pendant des heures dans le noir. 
+L'air s'épuise et vos forces vous abandonnent. 
+Vous n'avez pas survécu. 
+
+# en cas de droite : 
+La progression est lente, mais la logique est infaillible. 
+Vous finissez par apercevoir une lueur. 
+En sortant, vous remarquez que la grille de sortie a été tordue en forme de 3. 
+
+
+[Étape 2 : Le terminal hydraulique] _ 
+
+Vous arrivez dans une salle de maintenance située sous le poste de contrôle. 
+Pour monter plus haut, vous devez activer un vérin hydraulique. 
+Un écran de sécurité bloque l'accès. _ 
+
+[Énigme 2 : La suite logique] _ 
+
+# Riddle 1 
+L'écran affiche la séquence suivante : (50 ; 100 ; 190 ; 380 ; 750 ; 1500 ; ?) 
+
+Pour déverrouiller la trappe, vous devez trouver le dernier chiffre. 
+Cependant, une note de maintenance précise ;
+"Soustraire 2989 au résultat final pour obtenir le code d'accès".
+
+Votre réponse : 
+
+# réponse = 1 
+
+# mauvaise réponse : 
+Un signal d'alerte retentit. Le système de sécurité libère un gaz neurotoxique. 
+Vous vous effondrez. 
+Vous n'avez pas survécu.
+
+# bonne réponse : 
+La trappe s'ouvre dans un sifflement de vapeur. 
+Le passage est libre. Vous parvenez a avancé doucement mais sûrement, 
+vous vous rapprochez de cet humain et donc de la liberté, 
+vous remerciez votre intelligence qui vous a permis de résoudre 
+cette énigme mais vous êtes en rage contre les scientifiques qui vous ont provoqué tout ce mal. 
+
+
+[Étape 3 : Le panneau de contrôle] _ 
+
+Jour 2 _ 
+
+Vous rejoignez enfin la pièce où se trouve l'humain. Il semble désemparé. 
+Le coffre contenant les composants nécessaires à l'ordinateur est verrouillé par manque d'énergie. _ 
+
+Vous trouvez un panneau avec trois leviers. 
+
+[Énigme 3 : Le test de température] _ 
+
+Vous avez trois leviers (1, 2 et 3). 
+Vous ne pouvez inspecter le coffre qu'une seule fois après vos manipulations. _ 
+
+Vous abaissez le Levier 1 et attendez 50 minutes, puis vous éteignez. 
+Vous abaissez le Levier 2 et vous le laissez activé. 
+Vous laissez le Levier 3 comme tel. _ 
+
+Vous allez vérifier le coffre : l'ampoule est éteinte, mais le métal est brûlant au toucher. _ 
+
+# Riddle 2
+Quel levier a alimenté le circuit ? (1 / 2 / 3) : 
+
+# réponse 1 
+
+# mauvaise réponse : 
+C'est une erreur, cette ampoule ne s'est jamais allumée. 
+Le courant n'est pas rétabli et l'humain reste bloqué. 
+Vous n'avez pas survécu.
+
+# bonne réponse : 
+C'est exact. La chaleur résiduelle confirme que le courant est passé par ici. 
+Sur le socle du levier, vous distinguez le chiffre 4. 
+
+
+[Étape 4 : Le secret de l'expérience] _ 
+
+L’humain parvient enfin à assembler toutes les pièces manquantes à l’ordinateur, 
+l'ordinateur est prêt, mais l'humain ignore le mot de passe. 
+Vous fouillez les documents éparpillés sur le bureau 
+et tombez sur votre propre dossier de laboratoire. _ 
+
+[Énigme 4 : Le matricule] _ 
+Une note manuscrite du professeur indique ; 
+"Le code de sécurité est la moitié de la moitié du numéro de l'expérience réussie". 
+Votre matricule est le 8. _ 
+
+# Riddle 3
+Réponse 2 ou 4 ? : 
+
+# réponse = 2 
+
+# mauvaise réponse : 
+Le code est refusé, vous aurez peut-être dû mieux vous concentrer en mathématiques, 
+cela vous a porté préjudice.. L'ordinateur reste verrouillé. 
+Vous n'avez pas survécu. 
+
+# bonne réponse : 
+Le code est valide. Vous possédez désormais tous les éléments : 3, 1, 4 et 2, 
+vous regardez à droite, à gauche puis en observant l’ordinateur, 
+vous vous apercevez que le mot de passe demande 4 chiffres. _ 
+
+Votre intelligence hors norme vous dit que les 4 chiffres, 
+que vous avez trouvés durant votre trajet et vos résolutions d’énigmes, 
+sont les chiffres du mot de passe de l’ordinateur, 
+mais comment le faire comprendre à l'humain bien moins intelligent que vous. _ 
+
+
+[Conclusion : L'adieu à la servitude] _ 
+
+Vous survolez un bureau dévasté et vous vous posez sur un petit miroir, 
+qui a miraculeusement survécu au choc. _ 
+La pièce est glaciale, mais votre respiration, accélérée par l'effort, est chaude. 
+Vous approchez votre bec de la surface froide du verre. 
+En expirant longuement, vous créez une couche de buée sur le miroir. _ 
+D'un coup de patte précis, vous y tracez un message ; 
+“une enveloppe est scotchée en dessous de ce bureau” 
+vous attirez l’attention de l’humain en picorant le bureau afin qu’il vienne vers vous, 
+et lise votre message. _ 
+
+L’humain s’approche et stupéfait, il lit à voix haute vôtres message, 
+il s’empare donc de l’enveloppe situé sous la table, l’ouvrit et la lit a gorge déployée. _ 
+Le message dit “Veuillez ranger les chiffres par ordre croissant (1-2-3-4). 
+Il s’agit ici du mot de passe de l’ordinateur”. Il saisit le code. 
+Le système s'anime, la liaison avec les secours est établie. _ 
+
+Les secours, vêtus d’une combinaison anti radioactive, 
+viennent donc libérer l’humain et repartent en hélicoptère. _ 
+
+Au loin, vous entendez le sourd bruit des hélicoptères. 
+L'humain se tourne vers vous, avec un regard rempli de gratitude. 
+Il semble vouloir vous protéger, vous emmener avec lui. _ 
+Mais vous savez ce que signifie la protection des humains : de nouvelles cages, de nouveaux tests. 
+Vous vous posez sur le rebord d'une fenêtre brisée. 
+Vous observez l'humain une dernière fois. Vous poussez un cri puissant, 
+une note sauvage qui semble dire adieu à votre ancienne vie de cobaye. _ 
+Sans un regard en arrière, vous déployez vos ailes et plongez dans l'horizon de Calais. 
+
+Vous êtes enfin libre.
+
+# authors : Ammal Najman & Isaac
+# Updated on : 15/1/2026
+# Corbeau Mystérieux

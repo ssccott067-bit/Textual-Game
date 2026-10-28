@@ -1,0 +1,187 @@
+#
+
+Introduction : The awakening of consciousness. _ 
+
+Your eyes opened, you are in a crumbled place. 
+Your cage was thrown to the ground by the violence of an explosion 
+following a radioactive incident linked to the failure of a test 
+on many nuclear power plants in France, 
+the objective was to connect the nuclear plants to one another 
+however this test failed and many nuclear power plants exploded, 
+your cage was propelled to the ground, leaving the door open. 
+You did not feel the primal instinct of a bird, but a clarity of mind that is almost frightening. _ 
+
+This is the result of the serum injections that the scientists gave to you every single day. 
+On your leg, a sealed ring indicates your identity: "Subject n°8". _ 
+
+The air is filled with an unbearable metallic smell; 
+the radioactivity saturates the atmosphere. You immediately understand that the station is serious.
+Above you, a human is being. 
+He is your only chance of survival. 
+If he did not not manage to reset the security system, 
+you will remain trapped in this laboratory. _ 
+
+
+[Step 1 : The maze of pipes] _ 
+
+Day 1 
+
+You manage to slide into a ventilation system. 
+It is the only way to the upper floors, 
+but it is a real labyrinth and you did not know how to get out of this place. 
+If you get lost, you will never come out of these steel walls. _ 
+
+[Riddle 1 : The law of Labyrinth] _ 
+
+# question 1 
+How do you plan to cross this maze without getting lost ? 
+'random' : You fly instantly hoping to find a way out. 
+'right' : You use a geometric rule. You place your wing on the wall.
+Your choice will be, random (1) / right (2) ? : 
+
+# in case of random :
+You fly in circles for hours in the dark. 
+You run out of air and no longer have any strength. 
+You did not survive.
+
+# in case of right : 
+The progress is slow, but the logic is foolproof. 
+You finally spot a glimmer of hope. 
+As you exit, you noticed that the exit door had been twisted into the shape of a 3.
+
+
+[Step 2 : The terminal hydraulic] _ 
+
+You arrived in a maintenance room located under the control post. 
+To go higher, you must activate a hydraulic cylinder. 
+A security screen blocks the access. _ 
+
+[Riddle 2 : The sequence logic] _ 
+
+# Riddle 1
+The screen displays the following sequence: (50 ; 100 ; 190 ; 380 ; 750 ; 1500 ; ? ) 
+
+To unlock the trapdoor, you must figure out the last digit. 
+However, written on a maintenance note; 
+"Subtract 2989 from the final result to obtain the access code".
+
+Your answer : 
+
+# Answer = 1 
+
+# wrong answer :
+A signal alert goes off. The security system releases a neurotoxic gas. 
+You collapsed. 
+You did not survive.
+
+# right answer : 
+The trapdoor opened in a hiss of steam. 
+The path is clear. You manage to move forward slowly but surely, 
+you got closer to the human and also mean to the freedom, 
+you thank your intelligence which allowed you to solve 
+this riddle but you are still mad against the scientists that caused you all this harm.
+
+
+[Step 3 : The display board] _ 
+
+Day 2 _ 
+
+You finally joined the room where the human is. He seems helpless. 
+The chest containing the necessary components for the computer is locked due to the lack of electricity. _ 
+ 
+You found a panel with three levers. 
+
+[Riddle 3 : The temperature test] _ 
+
+You have three levers (1, 2 and 3). 
+You can only inspect the chest once after your manipulations. _ 
+
+You lower Lever 1 and wait 50 minutes, then you turn it off.
+You lower Lever 2 and you leave it activated. 
+You leave Lever 3 as it is. _ 
+
+You go check the chest: the bulb is turned off, but the metal is too hot to touch. _ 
+
+# Riddle 2
+Which lever powered the circuit ? (1 / 2 / 3) : 
+
+# answer 1 
+
+# wrong answer :
+It was a mistake, the bulb never turned on. 
+The current is not restored and the human remains trapped. 
+You did not survive.
+
+# right answer :
+That is correct. The residual heat confirms that the current had passed through. 
+On the base of the lever, you saw the number 4.
+
+
+[Step 4 : The secret of experiment] _ 
+
+The human finally manages to assemble all the components on the computer, 
+the computer is ready, but the human did not not know the password. 
+You search through the documents scattered on the desk 
+and come across your own laboratory files. _ 
+
+[Riddle 4 : The registration number] _ 
+A handwritten note of the professor indicates that ; 
+"The security code is half of the half of the number of the successful experiment". 
+Your ID number is 8. _ 
+
+# Riddle 3
+Answer 2 or 4 ? : 
+
+# answer = 2 
+
+# wrong answer :
+CODE REFUSED, you perhaps should concentrate better on mathematics, 
+it has caused you badluck. The computer remains locked. 
+You did not survive.
+
+# right answer :
+CODE VALID. You have all the numbers: 3, 1, 4 and 2, 
+you look to the right, to the left then by observing the computer, 
+you notice that the password requires 4 digits. _ 
+
+Your extraordinary intelligence tells you that the 4 digits, 
+you found during your journey and your puzzle resolutions, 
+are the digits of the computer password, 
+but how to make the human, who is less intelligent than you, understand it. _ 
+
+
+[Conclusion : Farewell to servitude] _ 
+
+You fly over a desk and you land on a small mirror, 
+that somehow survived the shock. _ 
+The room is freezing, but your breath, panting hardly, is warm. 
+You bring your beak close to the cold surface of the glass. 
+By strongly exhaling, you created a layer of mist on the mirror. _ 
+With a precise tap of your claw, you trace a message ; 
+"an envelope is taped under this desk" 
+you attracted the human's attention by pecking the desk so that he come towards you, 
+and reads your message. _ 
+
+The human approached and stunned, he reads your message, 
+then he grabs the envelope taped under the table, opened it and read it loudly. _ 
+The message says "Arrange the digits in ascending order (1-2-3-4). 
+This is the computer password". He enters the code. 
+The system activated, you saw the rescue teams. _ 
+
+The rescuers, dressed in the anti-radiation suits, 
+come to rescue the human and leave by using helicopter. _ 
+
+From the distance, you hear the dull sound of the helicopters. 
+The human turn towards you, with a look filled with gratitude. 
+He seems to want to protect you, to take you with him. _ 
+But you know what the protection of human means: new cages, new tests. 
+You sat on the ledge of a broken window. 
+You look at the human one last time. You let out a powerful cry, 
+a wild note that seems like a goodbye to your old life as a lab rat. _ 
+Without looking back, you spread your wings and fly towards the horizon of Calais. 
+
+You are finally free.
+
+# authors : Ammal Najman & Isaac
+# Updated on : 15/1/2026
+# Mysterious Crow

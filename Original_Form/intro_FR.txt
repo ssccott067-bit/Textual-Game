@@ -1,0 +1,13 @@
+# 
+Quel est votre nom ? : 
+Bonjour, , vous allez jouer à Corbeau Mystérieux.
+Voulez-vous être un humain (h) ou un corbeau (c) ? : 
+
+Facile - 1 
+Moyen - 2
+Difficile - 3 
+Voulez-vous quelle difficulté : 
+
+# authors : Ammal Najman & Isaac
+# Updated on : 15/1/2026
+# Corbeau Mystérieux

@@ -1,0 +1,13 @@
+# 
+What is your name ? : 
+Hello, , you are going to play Mysterious Crow.
+Would you like to be a human (h) or a crow (c) ? : 
+
+Easy - 1
+Normal - 2 
+Hard - 3 
+Which difficulty would you like to choose : 
+
+# authors : Ammal Najman & Isaac
+# Updated on : 15/1/2026
+# Mysterious Crow

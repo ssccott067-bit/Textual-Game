@@ -1,0 +1,169 @@
+#
+In the laboratory ; 
+(BOOM ! BOOM! TCHHH ...) Shocks, explosion. _ 
+
+Outside ;
+"AAAAAAA ! HELP !" _ 
+
+............ _ 
+............ _ 
+............ _ 
+
+Day 1
+
+You have just woken up in one of the many laboratories stations near Calais.
+You heard outside, the cries of people suffering and dying.
+You came out dizzy, in total confusion. You did not remember anything.
+Finally you manage to open your eyes, you contemplate the chaos: everything around you is ruined. 
+The equipment is out of service, except for a dying phone and an unusable computer given its condition and age. _ 
+
+[The first choice is offered to you, you call for a rescue team directly or wait before using the phone,] 
+[knowing that it will only work for a very short time following the explosion.]
+
+# question 1 :
+Would you like to make a call (1) or wait (2) ? : 
+
+# in case of wait :
+You did not survive.
+You did not know what to do because you ignored the cause of this explosion. 
+By going out to inspect the damage outside the laboratory, you succumbed.
+
+# in case of call :
+Rescuers ;
+"Hello, we are the emergency services. We are coming to get you, don't worry. 
+Could you tell us where you are ? " _ 
+
+You (frightened) ;
+"What... what is happening ? What happened to me ? 
+I heard people dying outside... I don't know if there are any survivors. " _ 
+
+Rescuers ;
+"According to our informations, you have just suffered a nuclear disaster. 
+Many cities in France are affected. 
+A test was carried out to link all the stations, but it failed miserably. 
+The radioactivity level in the air is way too high for us to go in 
+without knowing exactly where you are. Time is running out, we psssstttt... spttttttt... 
+need pshhhhtttt your pstttttthhhhh addres-ppstttttttt... " _ 
+
+The phone is cut. The rescuers ignored your precise position. _ 
+
+You get up to analyze the surroundings and realize that the computer can be repaired 
+if you manage to change a few components. _ 
+
+# question 2
+What are you going to do ? dismantle (1) / leave (2) : 
+
+# in case of leave : 
+You are dead. You did not know which components to change, 
+therefore could never contact the rescuers.
+
+# in case of dismantle : 
+You now know which components to change because they are too old or damaged. 
+You have created a list ; processor, microphone, PC password.
+
+Day 2 _ 
+
+You have your list, but you do not know where to look for it. 
+Without help, finding these components seems impossible. 
+Suddenly, you hear a noise in a pipe, as if something is trying to escape from it. _ 
+
+# question 3
+Are you going to, secure (1) / open (2) ? : 
+
+# in case of secure :
+You did not survive. Staying stuck in the laboratory without knowing where to look for the parts. 
+You died on the spot waiting for the rescuers who never came.
+
+# in case of open :
+
+Day 3 _ 
+
+A crow came out of the pipe with an envelope in its beak. 
+Curious, you retrieve and open it. 
+It contains a riddle. _ 
+You hesitate ; could this be just a waste of time ?
+
+# question 4
+Your next step ? solve (1) / pass (2) : 
+
+# in case of pass :
+You are dead. There was certainly something important about it.
+
+# in case of solve : 
+You decide to take your time. After all, you are stuck here. 
+You read the riddle out loud.
+
+# riddle 1
+[I am the department that surrounds you. Multiply my number by two,] 
+[add two to it and you will have the opening code.] 
+[Precision: the laboratory is near Calais.] : 
+
+# wrong answer : 
+You never found the solution. 
+You lost your mind, you wonder if this crow was just a distraction. 
+You died of madness.
+
+# right answer :
+# (Code 126) : (Note : 62 * 2 + 2 = 126)
+
+The box opened ! Inside, there is a message ; 
+"Bravo ! If you see this message, that means you have a great analytical capacity." _ 
+There inside, you also find the processor. _ 
+The crow then flies off and crashed into a box. 
+You find a second crumpled letter there ; _ 
+
+# riddle 2
+[What does this word indicate ? Decode it : ZEBPQ.]  
+[Hint : A = D, C = F, G = J, U = X] : 
+
+# wrong answer :
+You do not find "CHEST". You gave up and died of hunger.
+
+# right answer :
+You found the microphone in the chest.
+
+Day 4 _ 
+
+The crow then violently pecks a desk. 
+Underneath, you find one last envelope ; _ 
+
+# riddle 3
+[Solve this calculation, the result will indicate a clockwise direction.] 
+[Let a price be 16€, with a 25% reduction and an additional 2€ discount.] 
+[What is the result ?] : 
+
+# wrong answer : 
+Too bad, Try again :) 
+
+# right answer (answer = 10) : 
+You look in the direction of 10 o'clock. Behind a painting, you find the password : 1234
+
+You find yourself in front of a screen with a small piece of paper in hand. You read : 1234. _ 
+
+A long silence settles in the ruined laboratory. 
+You stare at the paper, then the computer, then the crow is looking at you with an almost mocking face.
+"All this for that ? ", you mumble. _ 
+"Three riddles, a department multiplication, a Caesar code and a percentage calculation... for 1234 ? 
+Might as well put "password" while we're at it !" _ 
+
+You feel a bit stupid for being tricked by death for a code that even a child could have passed by pure chance. 
+But well, the balance between an effort and a reward is sometimes ironic. 
+You type the keys : 1... 2... 3... 4... Enter. _ 
+
+It works ! _ 
+
+Without losing a second, you launch Skype and contact your loved ones. 
+You ask them to call the rescuers while staying online with you to give your precise position. _ 
+The signal is weak, but enough. 
+A few hours later, a rescue team wearing anti-nuclear suits breaks down the armored door. _ 
+
+As they put a protective suit on you, you look for the crow. 
+But the crow had disappeared, without any doubt flew back through the pipe from which it had came. _ 
+
+While stepping into the rescuers helicopter, tons of questions popped up in your mind ; _ 
+
+"Does that crow really understood me or was it is just attracted by shiny objects ?"
+
+# authors : Ammal Najman & Isaac 
+# Updated on : 15/1/2026
+# Mysterious Crow
